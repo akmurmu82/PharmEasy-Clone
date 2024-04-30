@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/akmurmu82/PharmEasy-Clone/issues"
   },
-  "homepage": "https://github.com/akmurmu82/PharmEasy-Clone#readme"
+  "homepage": "https://github.com/akmurmu82/PharmEasy-Clone#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.1",
+    "style-loader": "^4.0.0"
+  }
 }
